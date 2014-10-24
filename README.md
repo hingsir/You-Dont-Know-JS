@@ -1,5 +1,5 @@
 # You Don't Know JS (book series)
-# 你所不知道的JS（系列书籍）
+# 你所不知道的JavaScript（系列书籍）
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
 这是一系列深入JavaScript核心原理的书籍。
@@ -20,7 +20,6 @@ Please feel free to contribute to the quality of this content by submitting PR's
 * ["Types & Grammar"](types & grammar/README.md) (draft complete)
 * ["Async & Performance"](async & performance/README.md) (draft in progress)
 * "ES6 & Beyond" (planned)
-
 * 作用域和闭包（已出版）
 * this和对象原型（已出版）
 * 类型和语法（初稿完成）
