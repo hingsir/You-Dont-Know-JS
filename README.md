@@ -2,12 +2,14 @@
 # 你所不知道的JS（系列书籍）
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
+这是一系列深入JavaScript核心原理的书籍。
 
 <img src="scope %26 closures/cover.jpg" width="75">&nbsp;
 <img src="this %26 object prototypes/cover.jpg" width="75">&nbsp;
 <span>...(more coming soon!)</span>
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
+欢迎PR,一起完善这些书籍。你可以贡献代码，文字，修正文中的错误。你的这些工作对这个系列非常重要。
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
@@ -19,6 +21,12 @@ Please feel free to contribute to the quality of this content by submitting PR's
 * ["Async & Performance"](async & performance/README.md) (draft in progress)
 * "ES6 & Beyond" (planned)
 
+* 作用域和闭包（已出版）
+* this和对象原型（已出版）
+* 类型和语法（初稿完成）
+* 异步和性能（初稿进行中）
+* EMACScript 6（计划中）
+
 ## Publishing
 
 These books are being released here as rough drafts, but will be edited, produced, and published through O'Reilly.
@@ -26,6 +34,8 @@ These books are being released here as rough drafts, but will be edited, produce
 If you like the content you find here, and want to support more content like it, please purchase the books once they are available for sale, through your normal book sources. :)
 
 If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [gittip](https://www.gittip.com/getify/) that I would always appreciate your generosity towards.
+
+这一系列书都将通过O'Reilly出版，如果喜欢，请购买正版。
 
 ## Training
 
